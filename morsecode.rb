@@ -19,5 +19,6 @@ def decode(message)
   message.split('   ').map { |word| decode_word(word) }.join(' ')
 end
 
+  
 decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
-"A BOX FULL OF RUBIES"
+=> "ABX FULL OF BEES"
