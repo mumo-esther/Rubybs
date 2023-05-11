@@ -12,6 +12,7 @@ class MyList
   end
 end
 
+#=> Verifying the solution
 my_list = MyList.new([1, 2, 3, 4])
 
 my_list.all? { |num| num > 0 } #=> true
