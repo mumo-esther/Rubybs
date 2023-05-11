@@ -19,6 +19,5 @@ def decode_char(morse)
     message.split('   ').map { |word| decode_word(word) }.join(' ')
   end
 
-  
-  irb(main):001:0> decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
-=> "ABX FULL OF BEES"
+  decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+=> " A BOX FULL OF BEES"
