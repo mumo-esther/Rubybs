@@ -19,7 +19,5 @@ def decode(message)
   message.split('   ').map { |word| decode_word(word) }.join(' ')
 end
 
-
 decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
 'ABX FULL OF BEES'
-
