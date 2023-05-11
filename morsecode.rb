@@ -12,14 +12,14 @@ def decode_char(morse)
 end
 
 def decode_word(morse)
-  morse.split(' ').map { |morse_char| decode_char(morse_char) }.join('')
+  morse.split.map { |morse_char| decode_char(morse_char) }.join
 end
 
 def decode(message)
   message.split('   ').map { |word| decode_word(word) }.join(' ')
 end
 
-  
+
 decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
- "ABX FULL OF BEES"
+'ABX FULL OF BEES'
 
