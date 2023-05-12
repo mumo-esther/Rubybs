@@ -108,12 +108,12 @@ Thats it now you can execute your program on terminal:)
 
 - GitHub: [@githubhandle](https://github.com/MICHAELKITH)
 - Twitter: [@twitterhandle](https://twitter.com/DevMichael11)
-- LinkedIn: [LinkedIn](linkedin.com/in/dev-mike-5a09ab167)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/michaelkithinji/)
 
 👤 **Esther Mawioo**
 
 - [Github](https://github.com/mumo-esther/mumo-esther)
-- [Linkedin](https://www.linkedin.com/in/esther-mawioo-58b636225/)
+- [Linkedin](https://www.linkedin.com/in/esther-mawioo-mumo/)
 - [Twitter](https://twitter.com/EstherMawioo)
 
 
